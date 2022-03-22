@@ -7,3 +7,6 @@
 hello <- function() {
   print("Hello, world!")
 }
+greeting<- function(){
+  "how are you?"
+}
